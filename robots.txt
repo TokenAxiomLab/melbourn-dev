@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://melbourn.dev/sitemap.xml

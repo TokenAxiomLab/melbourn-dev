@@ -1,0 +1,32 @@
+# Melbourn Studio
+
+> A remote-first premium web design and AI agency based in Surat, India, working worldwide. Fixed quotes in 24 hours, daily updates, 30-day launch support.
+
+## What we do
+
+- Web Development: bespoke marketing sites, landing pages and stores in Astro + Tailwind. Sub-second loads, search-ready, CMS + training video. 1-2 weeks, from $499.
+- AI Automation: website + WhatsApp chatbots, lead capture to CRM/Sheets, follow-up flows. Saves 10+ hours/week. 2-3 weeks, from $799.
+- AI Creatives & Ads: performance-led ad creatives, product shoots, UGC-style video with hooks + copy. Weekly delivery, from $299/month.
+- Model Tuning: custom fine-tuned AI models on your brand voice, menu, catalogue or docs. Integrated into site or support flow. 2-4 weeks, custom pricing.
+- SEO + Care: Core Web Vitals, technical + local SEO, updates, backups, priority WhatsApp support. From $99/month.
+
+## Process
+
+1. Fixed quote within 24 hours of enquiry.
+2. 50% advance to start, 50% on launch. UPI, cards and bank transfer accepted.
+3. Daily async updates; typical delivery 1-4 weeks.
+4. 30 days free post-launch support on every build.
+
+## Key pages
+
+- Home: https://melbourn.dev/
+- Services and pricing: https://melbourn.dev/services
+- About the studio: https://melbourn.dev/about
+- Contact and quote form: https://melbourn.dev/contact
+- Privacy and terms: https://melbourn.dev/legal
+- Refund policy: https://melbourn.dev/refund
+
+## Contact
+
+- Email: hello@melbourn.dev
+- Location: Surat, India. Remote-first, worldwide delivery. Replies within 24 hours, Mon-Sat.
